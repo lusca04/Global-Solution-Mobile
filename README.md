@@ -46,7 +46,3 @@ npm start
 
 - `global-solution-api/README.md`
 - `global-solution-interface/README.md`
-
-## Observações
-
-Este repositório não possui um README raiz anterior, então esta documentação serve como guia inicial para desenvolvimento e execução dos dois projetos.
