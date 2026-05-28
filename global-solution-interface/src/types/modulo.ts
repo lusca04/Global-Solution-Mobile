@@ -1,0 +1,6 @@
+export enum StatusSistema {
+  OPERACIONAL = 'OPERACIONAL',
+  DEGRADADO = 'DEGRADADO',
+  FALHA = 'FALHA',
+  DESLIGADO = 'DESLIGADO',
+}
