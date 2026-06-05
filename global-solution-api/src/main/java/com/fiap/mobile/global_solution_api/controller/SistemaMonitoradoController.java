@@ -10,6 +10,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/sistemas")
+@CrossOrigin(origins = "*")
 @RequiredArgsConstructor
 public class SistemaMonitoradoController {
 
