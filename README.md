@@ -5,6 +5,12 @@ Repositório que reúne dois projetos do ecossistema Global Solution:
 - `global-solution-api`: backend em Spring Boot
 - `global-solution-interface`: app mobile em Expo/React Native
 
+## Sobre o Projeto
+Solução integrada para controle de missão espacial, composta por 
+um backend em Java com Spring Boot e um aplicativo mobile em 
+React Native com TypeScript. Permite cadastro e monitoramento de 
+sensores, sistemas, alertas críticos e eventos operacionais da missão.
+
 ## Visão geral
 
 O backend oferece serviços REST para gerenciar sistemas monitorados, sensores, alertas e eventos.
