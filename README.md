@@ -10,6 +10,10 @@ Repositório que reúne dois projetos do ecossistema Global Solution:
 O backend oferece serviços REST para gerenciar sistemas monitorados, sensores, alertas e eventos.
 A interface consome esses serviços e apresenta os dados em uma aplicação móvel.
 
+## ALUNOS 
+Lucas Santos Rodrigues RM 556891
+Gustavo Andrade de Sousa RM 559069
+
 ## Estrutura do repositório
 
 - `global-solution-api/`
